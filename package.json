@@ -26,6 +26,7 @@
   "author": "laobubu <laobubu@gmail.com> (http://laobubu.net)",
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.4.4",
     "@types/codemirror": "^0.0.56",
     "@types/glob": "^5.0.35",
     "@types/mermaid": "^8.0.0",
